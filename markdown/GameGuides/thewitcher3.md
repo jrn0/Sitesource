@@ -34,6 +34,7 @@ mods. The rollback to a previous version through the store clients is a proven m
 way too fast when used with keyboard/mouse.
 * [Photomode2in1](https://www.nexusmods.com/witcher3/mods/190). This mods adds a handy timestop and weather control, as well as other commands that 
 could help you setup the perfect shot.
+* [NVIDIA Ansel Utilities](https://www.nexusmods.com/witcher3/mods/1907). This mod enables high-resolution actor shadows during in the open world, which translates to cutscene quality shadows for NPCs and the player character during gameplay. Note that this feature is after engaging a cutscene or a conversation until the game is reloaded from a save.
 * [The Witcher Script Merger](https://www.nexusmods.com/witcher3/mods/484). To work with mods, you will run into conflicts, things that need to be 
 loaded before the other etc. The easiest to solve this is via this tool
 * [Unification patch for 1.32 - 1.31 - 1.31GOTY - 1.31A](https://www.nexusmods.com/witcher3/mods/2134). This mod makes sure other mods work with your
